@@ -75,7 +75,7 @@ The output waveform is saved in a file named `OUT`, which can be used to drive a
 
 This demonstrates how **digital computations can generate real-world analog signals**, bridging the gap between computation and perception.
 
-![VSDBabySoC](../images/BabySoC.png)
+![VSDBabySoC](../images/BabySoc.png)
 
 ---
 
@@ -122,10 +122,10 @@ A **Digital-to-Analog Converter** transforms binary data into analog voltage or 
 
 **Common DAC Architectures:**
 1. **Weighted Resistor DAC:** Uses resistors of different values to scale bit significance.
-![DAC 1](../images/weighted Resistor.png) 
+![DAC 1](../images/Weighted_Resistor.png) 
  
 2. **R-2R Ladder DAC:** Uses a repeating resistor network for simplified and scalable design.
-![DAC 2](../images/R2Rladder.png)  
+![DAC 2](../images/R2R ladder.png)  
 
 **In VSDBabySoC:**
 - The **10-bit DAC** converts RVMYTH’s digital output to analog form.  
