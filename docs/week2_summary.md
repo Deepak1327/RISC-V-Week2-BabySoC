@@ -125,7 +125,7 @@ A **Digital-to-Analog Converter** transforms binary data into analog voltage or 
 ![DAC 1](../images/Weighted_Resistor.png) 
  
 2. **R-2R Ladder DAC:** Uses a repeating resistor network for simplified and scalable design.
-![DAC 2](../images/R2R ladder.png)  
+![DAC 2](../images/R2R_ladder.png)  
 
 **In VSDBabySoC:**
 - The **10-bit DAC** converts RVMYTH’s digital output to analog form.  
